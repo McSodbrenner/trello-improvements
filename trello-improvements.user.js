@@ -3,7 +3,7 @@
 // @downloadURL  https://raw.githubusercontent.com/McSodbrenner/trello-improvements/master/trello-improvements.user.js
 // @namespace    https://github.com/McSodbrenner/trello-improvements
 // @version      0.1
-// @description
+// @description  Greasemonkey script for adding some improvements to the trello GUI
 // @author       Christoph Erdmann
 // @match        https://trello.com/*
 // @grant        GM_addStyle
